@@ -1,7 +1,7 @@
 import React from "react"
 import ReactDOM from "react-dom"
 
-export default function jokes() {
+export default function App() {
   return (
     <>
       <h1>Some Jokes!</h1>
